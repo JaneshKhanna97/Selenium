@@ -1,2 +1,0 @@
-# SeleniumXap
-XAP Portal Automation
